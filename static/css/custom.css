@@ -35,6 +35,10 @@ header{
     height: 0;
 }
 
+.page-header{
+    background-color: #203731;
+}
+
 #twitch-embed iframe{
     position: absolute;
     top: 0;
